@@ -9,5 +9,5 @@ package assignment2;
  * @author yu
  */
 public class roomReport {
-    
+    System.out.println("lalala");
 }
